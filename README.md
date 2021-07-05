@@ -1,2 +1,2 @@
-# CommitViewer
-Java Project. Part of the interviewing process.
+# CommitViewer [JAVA]
+Exercise I did as part of the interview process of a company.
