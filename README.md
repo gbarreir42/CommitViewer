@@ -1,8 +1,9 @@
-# CommitViewer [JAVA]
+# CommitViewer [JAVA 16]
 Exercise I did as part of the interview process of a company.
 
 # How to run CommitViewer
-Simply clone this project and run the CommitViewer.jar file!
+* Make sure you have a compatible version of java.
+* Simply clone this project and run the CommitViewer.jar file!
 
 # Existing files
 * CommitViewer.jar  =>  (This is your runnable file, simply double click it)
@@ -32,6 +33,13 @@ Cancel | Cancels the wait for a repository link, in case you regret inputting th
 * 🟢  =>  "repo" Command input.
 * 🔵  =>  Copy&Paste or Type in your github repository link.
 * 🟡  =>  Output.
+
+
+**The order of the Output**
+- SHA
+- Commit Message
+- Date & Hour
+- Commiter Name
 
 # Error Handling
 If you ever run into an error, you will be able to read this on the Console.
