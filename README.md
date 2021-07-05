@@ -40,3 +40,6 @@ If you ever run into an error, you will be able to read this on the Console.
 
 For more information on the error type and the reason behind it, please refer to the corresponding error_log file inside the folder.
 
+# Last notes
+There are some files inside the "error_logs/" and "logs/" directory, these are simply remnants that I left out after testing my program, in case you want to check them out.
+Inside the "repos_to_test.txt" file, there are 2 repos that I used to test out the program the most.
