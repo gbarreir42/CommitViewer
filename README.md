@@ -2,7 +2,7 @@
 Exercise I did as part of the interview process of a company.
 
 # How to run CommitViewer
-* Make sure you have a compatible version of java.
+* Make sure you have a compatible version of java (Java 14+).
 * Simply clone this project and run the CommitViewer.jar file!
 
 # Existing files
